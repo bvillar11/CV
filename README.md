@@ -1,5 +1,4 @@
-# CV
-MY-Profile
+# MY-Profile
 ## Contact Information
 - **Email:** bvillar2018@gmail.com
 - **LinkedIn:** [linkedin.com/in/Bismarck](https://linkedin.com/in/Bismarck)
