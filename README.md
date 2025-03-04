@@ -1,9 +1,9 @@
 # CV
 MY-Profile
 ## Contact Information
-- **Email:** john.doe@example.com
-- **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
+- **Email:** bvillar2018@gmail.com
+- **LinkedIn:** [linkedin.com/in/Bismarck](https://linkedin.com/in/Bismarck)
+- **GitHub:** [github.com/bvillar11](https://github.com/bvillar11)
 
 ## Education
 ### ACCESS COMPUTER Studies
